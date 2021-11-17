@@ -1,0 +1,21 @@
+[submodule "CMake_tutorial_1_basics"]
+	path = CMake_tutorial_1_basics
+	url = git@github.com:ZhongmouLi/CMake_tutorial_1_basics.git
+[submodule "CMake_tutorial_2_MultiFiles_a"]
+	path = CMake_tutorial_2_MultiFiles_a
+	url = git@github.com:ZhongmouLi/CMake_tutorial_2_MultiFiles_a.git
+[submodule "CMake_tutorial_2_MultiFiles_b"]
+	path = CMake_tutorial_2_MultiFiles_b
+	url = git@github.com:ZhongmouLi/CMake_tutorial_2_MultiFiles_b.git
+[submodule "CMake_tutorial_3_ExternalLibs"]
+	path = CMake_tutorial_3_ExternalLibs
+	url = git@github.com:ZhongmouLi/CMake_tutorial_3_ExternalLibs.git
+[submodule "CMake_tutorial_4_InstallLibs_a"]
+	path = CMake_tutorial_4_InstallLibs_a
+	url = https://github.com/ZhongmouLi/CMake_tutorial_4_InstallLibs_a
+[submodule "CMake_tutorial_4_InstallLibs_b"]
+	path = CMake_tutorial_4_InstallLibs_b
+	url = git@github.com:ZhongmouLi/CMake_tutorial_4_InstallLibs_b.git
+[submodule "Cmake_Tutorial_5_submodules"]
+	path = Cmake_Tutorial_5_submodules
+	url = git@github.com:ZhongmouLi/Cmake_Tutorial_5_submodules.git
